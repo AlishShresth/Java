@@ -1,3 +1,4 @@
+// Program to count number of characters, digits, spaces and other characters in a string
 import java.util.Scanner;
 public class countChar {
     public static void main(String[] args) {
